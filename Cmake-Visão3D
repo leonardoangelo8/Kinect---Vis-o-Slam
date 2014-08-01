@@ -1,7 +1,7 @@
 INCLUDE(../../cmakemodules/AssureCMakeRootFile.cmake) # Avoid user mistake in CMake source directory
 
 #-----------------------------------------------------------------
-# CMake file for the MRPT application:  kinect-3d-view
+# 
 #
 #  Run with "cmake ." at the root directory
 #-----------------------------------------------------------------
